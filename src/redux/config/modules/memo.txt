@@ -1,0 +1,2 @@
+*todolist에 필요한 state들이 모두 모인 state의 그룹
+ex) 삭제 여부, 제목 등등..
